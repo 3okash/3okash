@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 <!--
 **3okash/3okash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
