@@ -34,5 +34,4 @@ Check out my other work and projects on my portfolio.
 
 
 ## 🤝 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/alaa-batayneh)
+[LinkedIn](https://www.linkedin.com/in/alaa-batayneh)
