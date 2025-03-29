@@ -2,7 +2,7 @@
 
 I architect and develop advanced business tools and solutions that optimize workflows and drive productivity through AI, innovation, and open-source technology.
 
----
+
 
 ## 🔧 Technologies & Tools
 
@@ -12,7 +12,7 @@ I architect and develop advanced business tools and solutions that optimize work
 - **DevOps**: AWS, Docker, Git, CI/CD, Linux, Microservices
 - **AI/ML**: Model Training, AI Integration, AI Agents
 
----
+
 
 ## 📌 Some of My Projects
 
@@ -28,7 +28,7 @@ A hybrid map/timeline data visualization that illustrates voting patterns across
 ### [More Projects](https://3okash.github.io/home/projects)
 Check out my other work and projects on my portfolio.
 
----
+
 
 ## 🤝 Let's Connect
 
