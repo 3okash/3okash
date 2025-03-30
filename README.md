@@ -14,6 +14,10 @@ I architect and develop advanced business tools and solutions that optimize work
 
 ## 📌 Some Projects
 
+### [SynthChord](https://3okash.github.io/synthchord/)
+#reactjs #p5js #tonejs
+SynthCord is a creative web application that simulates guitar chord sounds using real-time audio synthesis. Built with React for the frontend, p5.js for interactive string visuals, and Tone.js for sound synthesis.
+
 ### [Headliner](https://3okash.github.io/headliner/)
 #ML#python#react
 An AI model that predicts the emotional and social impact of news headlines, as well as clusters headlines into narrative themes. The model utilizes DistilBERT, NLTK VADER, and k-means clustering.
