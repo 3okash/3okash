@@ -1,4 +1,4 @@
-I architect and develop advanced business tools and solutions that optimize workflows and drive productivity through AI, innovation, and open-source technology.
+I architect and develop advanced business tools and solutions that optimize workflows and drive productivity through AI, innovation, and open-source technology. I'm also passionate about creative coding.
 
 
 
