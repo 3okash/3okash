@@ -10,7 +10,7 @@ I architect and develop advanced business tools and solutions that optimize work
 - **DevOps**: AWS, Docker, Git, CI/CD, Linux, Microservices
 - **AI/ML**: Model Training, AI Integration, AI Agents
 
-
+### [Homepage](https://3okash.github.io/home/projects)
 
 ## 📌 Some Projects
 
