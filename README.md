@@ -39,6 +39,6 @@ I specialize in building **data-driven narratives**, **AI-powered tools**, and *
 ### 🤝 Let's Connect!
 
 * 🌍 My Portfolio: [3okash.github.io/home](https://3okash.github.io/home/projects)
-* 💼 LinkedIn: [[Your Profile Link Here](https://www.linkedin.com/in/a-batayneh/)]
+* 💼 LinkedIn: [[LinkedIn](https://www.linkedin.com/in/a-batayneh/)]
 
 ---
