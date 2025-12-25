@@ -30,11 +30,6 @@ I specialize in building **data-driven narratives**, **AI-powered tools**, and *
 * **[SynthChord](https://3okash.github.io/synthchord/)**: Real-time audio synthesis guitar built with Tone.js and P5.js.
 * **[Stylus](https://3okash.github.io/stylus/)**: Geometric drawing tool exploring symmetry and algorithmic art.
 
-  
-
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=3okash&show_icons=true&theme=radical)
-
 ---
 
 ### 🤝 Let's Connect!
