@@ -1,4 +1,4 @@
-
+# 👋 Hi, I'm Ala (3okash)
 
 ### 🚀 Creative Technologist & Full-Stack Developer
 I specialize in building **data-driven narratives**, **AI-powered tools**, and **immersive web experiences**. My work sits at the intersection of journalism, data science, and high-performance web development.
@@ -18,23 +18,23 @@ I specialize in building **data-driven narratives**, **AI-powered tools**, and *
 
 ### 🌟 Featured Projects
 
-* **[Nextplate](https://github.com/3okash/Nextplate)** - The ultimate Next.js boilerplate for rapid development.
-* **[Nextpen](https://github.com/3okash/nextpen)** -  A sleek, full-featured blog engine built for performance.
-* **[Newscoop](https://newscoop.streamlit.app)** -  AI news auditor surfacing narrative bias and media blind spots.
-* **[Persona Pulse](https://3okash.github.io/PersonaPulse/)**: Inferred user persona analysis via Flask microservices and React.
-* **[Headliner](https://3okash.github.io/headliner/)**: Predicts emotional/social impact of headlines using DistilBERT & K-Means clustering.
-* **[How the US Voted](https://3okash.github.io/us_votes)**: Dynamic hybrid map/timeline viz using React and SVG.
+* <a href="https://github.com/3okash/Nextplate" target="_blank">**Nextplate**</a> - The ultimate Next.js boilerplate for rapid development.
+* <a href="https://github.com/3okash/nextpen" target="_blank">**Nextpen**</a> - A sleek, full-featured blog engine built for performance.
+* <a href="https://newscoop.streamlit.app" target="_blank">**Newscoop**</a> - AI news auditor surfacing narrative bias and media blind spots.
+* <a href="https://3okash.github.io/PersonaPulse/" target="_blank">**Persona Pulse**</a>: Inferred user persona analysis via Flask microservices and React.
+* <a href="https://3okash.github.io/headliner/" target="_blank">**Headliner**</a>: Predicts emotional/social impact of headlines using DistilBERT & K-Means clustering.
+* <a href="https://3okash.github.io/us_votes" target="_blank">**How the US Voted**</a>: Dynamic hybrid map/timeline viz using React and SVG.
+
 ---
 
 #### 🎨 Creative Coding & Audio
-* **[SynthChord](https://3okash.github.io/synthchord/)**: Real-time audio synthesis guitar built with Tone.js and P5.js.
-* **[Stylus](https://3okash.github.io/stylus/)**: Geometric drawing tool exploring symmetry and algorithmic art.
+* <a href="https://3okash.github.io/synthchord/" target="_blank">**SynthChord**</a>: Real-time audio synthesis guitar built with Tone.js and P5.js.
+* <a href="https://3okash.github.io/stylus/" target="_blank">**Stylus**</a>: Geometric drawing tool exploring symmetry and algorithmic art.
 
 ---
 
 ### 🤝 Let's Connect!
-* 🌍 My Portfolio: [3okash.github.io/home](https://3okash.github.io/home)
-* 💼 LinkedIn: [[Your Profile Link Here](https://www.linkedin.com/in/a-batayneh/)]
+* 🌍 My Portfolio: <a href="https://3okash.github.io/home/projects" target="_blank">3okash.github.io/home</a>
+* 💼 LinkedIn: <a href="https://www.linkedin.com/in/a-batayneh/" target="_blank">Ala Batayneh</a>
 
 ---
-
