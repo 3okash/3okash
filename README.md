@@ -1,6 +1,6 @@
 
 
-### 🚀 Creative Technologist & Full-Stack Engineer
+### 🚀 Creative Technologist & Full-Stack Developer
 I specialize in building **data-driven narratives**, **AI-powered tools**, and **immersive web experiences**. My work sits at the intersection of journalism, data science, and high-performance web development.
 
 ---
