@@ -18,9 +18,9 @@ I specialize in building **data-driven narratives**, **AI-powered tools**, and *
 
 ### 🌟 Featured Projects
 
-* **[Nextplate](https://github.com/3okash/Nextplate)** - ⚡ The ultimate Next.js boilerplate for rapid development.
-* **[nextpen](https://github.com/3okash/nextpen)** - 🖋️ A sleek, full-featured blog engine built for performance.
-* **[newscoop](https://github.com/3okash/newscoop)** - 📰 Python powered AI-powered news analyzer that helps identify over-reported and under-reported stories across top U.S. outlets.
+* **[Nextplate](https://github.com/3okash/Nextplate)** - The ultimate Next.js boilerplate for rapid development.
+* **[nextpen](https://github.com/3okash/nextpen)** -  A sleek, full-featured blog engine built for performance.
+* **[newscoop](https://github.com/3okash/newscoop)** -  AI news auditor surfacing narrative bias and media blind spots.
 * **[Persona Pulse](https://3okash.github.io/PersonaPulse/)**: Inferred user persona analysis via Flask microservices and React.
 * **[Headliner](https://3okash.github.io/headliner/)**: Predicts emotional/social impact of headlines using DistilBERT & K-Means clustering.
 * **[How the US Voted](https://3okash.github.io/us_votes)**: Dynamic hybrid map/timeline viz using React and SVG.
