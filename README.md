@@ -7,8 +7,7 @@ I specialize in building **data-driven narratives**, **AI-powered tools**, and *
 
 ## 🛠️ Core Tech Stack
 
-| Domain | Tools & Languages |
-| :--- | :--- |
+
 | **Frontend** | React, Next.js, P5.js, Tone.js, Tailwind |
 | **Backend/AI** | Python (FastAPI/Flask), Node.js, DistilBERT, NLTK |
 | **Data/Viz** | SQL, BeautifulSoup, SVG, Streamlit |
