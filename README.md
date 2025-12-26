@@ -11,7 +11,7 @@ I specialize in building **data-driven narratives**, **AI-powered tools**, and *
 | **Full-Stack Web** | React, Next.js, Node.js, TypeScript, Tailwind, Bootstrap |
 | **AI & Data Science** | Python (FastAPI/Flask), DistilBERT, NLTK, BeautifulSoup, SQL, MongoDB, Firebase |
 | **Creative Coding** | P5.js, Tone.js, A-Frame (WebVR), SVG Animation |
-| **CMS & Architecture** | Hugo, Ghost, Jekyll, Drupal, Flask, Netlify, Streamlit, Pageflow |
+| **CMS & Architecture** | Hugo, Ghost, Jekyll, Drupal, WordPress, Netlify, Streamlit, Pageflow |
 
 ---
 
