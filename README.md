@@ -16,7 +16,7 @@ I specialize in building **data-driven narratives**, **AI-powered tools**, and *
 ---
 
 ### ⭐ Coming Soon
-* **[⛰️ Adventra](https://adventra-web.vercel.app/)** - Fully-featured Social infrastructure for localized outdoor economy.
+* **[⛰️ Adventra](https://beta.adventra.app/)** - Fully-featured Social infrastructure for localized outdoor economy.
 
 
 
