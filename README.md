@@ -1,4 +1,4 @@
-### 🚀 Creative Technologist, Full-Stack Developer, Technical Product Manager
+### Creative Technologist, Full-Stack Developer, Technical Product Manager
 
 I specialize in building **data-driven narratives**, **AI-powered tools**, and **immersive web experiences**. My work sits at the intersection of interactive storytelling, data, and high-performance web development.
 
@@ -22,7 +22,7 @@ I specialize in building **data-driven narratives**, **AI-powered tools**, and *
 
 ---
 
-### 🌟 Featured Projects
+### Featured Projects
 
 * **[Nextplate](https://github.com/3okash/Nextplate)** - The ultimate Next.js boilerplate for rapid development.
 * **[Nextpen](https://github.com/3okash/nextpen)** -  A sleek, full-featured Next.js based blog platform built for performance.
@@ -34,16 +34,16 @@ I specialize in building **data-driven narratives**, **AI-powered tools**, and *
 ---
 
 
-#### 🎨 Creative Coding & Audio
+####  Creative Coding & Audio
 
 * **[SynthChord](https://3okash.github.io/synthchord/)**: Real-time audio synthesis guitar built with Tone.js and P5.js.
 * **[Stylus](https://3okash.github.io/stylus/)**: Geometric drawing tool exploring symmetry and algorithmic art.
 
 ---
 
-### 🤝 Let's Connect!
+###  Let's Connect!
 
-* 🌍 Portfolio: [3okash.github.io/home](https://3okash.github.io/home/projects)
-* 💼 LinkedIn: [[LinkedIn](https://www.linkedin.com/in/a-batayneh/)]
+*  Portfolio: [3okash.github.io/home](https://3okash.github.io/home/projects)
+*  LinkedIn: [[LinkedIn](https://www.linkedin.com/in/a-batayneh/)]
 
 ---
