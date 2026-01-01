@@ -16,7 +16,9 @@ I specialize in building **data-driven narratives**, **AI-powered tools**, and *
 ---
 
 ### ⭐ Coming Soon
-* **[⛰️ Adventra](https://github.com/3okash/Nextplate)** - Fully-featured social infrastructure for the outdoor economy (React, Express, ReactNative).
+* **[⛰️ Adventra](https://adventra-web.vercel.app/)** - Fully-featured Social infrastructure for localized outdoor economy.
+
+
 
 ---
 
