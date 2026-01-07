@@ -1,6 +1,7 @@
 ### Creative Technologist, Full-Stack Developer, Technical Product Manager
 
-15+ years experience specialized in building **data-driven narratives**, **AI-powered tools**, and **immersive web experiences**. My work sits at the intersection of interactive storytelling, data, and high-performance web development.
+15+ years of experience specializing in data-driven narratives and AI-powered tools. I build immersive web experiences where interactive storytelling meets high-performance engineering.
+
 
 ---
 
