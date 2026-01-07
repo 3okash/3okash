@@ -44,7 +44,7 @@
 
 ###  Let's Connect!
 
-*  Portfolio: [3okash.github.io/home](https://3okash.github.io/home/projects)
-*  LinkedIn: [[LinkedIn](https://www.linkedin.com/in/a-batayneh/)]
+*  Homepage : [3okash.github.io/home](https://3okash.github.io/home)
+
 
 ---
