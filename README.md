@@ -39,11 +39,3 @@
 * **[SynthChord](https://3okash.github.io/synthchord/)**: Real-time audio synthesis guitar built with Tone.js and P5.js.
 * **[Stylus](https://3okash.github.io/stylus/)**: Geometric drawing tool exploring symmetry and algorithmic art.
 
----
-
-###  Let's Connect!
-
-*  Homepage : [3okash.github.io/home](https://3okash.github.io/home)
-
-
----
