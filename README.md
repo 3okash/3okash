@@ -30,7 +30,7 @@
 * **[Persona Pulse](https://3okash.github.io/PersonaPulse/)**: Inferred user persona analysis via Flask microservices and React.
 * **[Headliner](https://3okash.github.io/headliner/)**: Predicts emotional/social impact of headlines using DistilBERT & K-Means clustering.
 * **[How the US Voted](https://3okash.github.io/us_votes)**: Dynamic hybrid map/timeline viz using React and SVG.
-* [More ...]([https://3okash.github.io/us_vote](https://3okash.github.io/home/projects)
+* [More ...](https://3okash.github.io/home/projects)
 
 ---
 
