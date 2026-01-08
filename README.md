@@ -1,7 +1,6 @@
 ### Creative Technologist, Full-Stack Developer, Technical Product Manager
 
-15+ years of experience specializing in data-driven narratives and AI-powered tools. I build immersive web experiences where interactive storytelling meets high-performance engineering.
-
+15+ years of experience specializing in building and leading **data-driven narratives**, **world-class web applications**, and **AI-powered tools**.
 
 ---
 
@@ -9,9 +8,10 @@
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Full-Stack Web** | React, Next.js, Node.js, TypeScript, Tailwind, Bootstrap |
-| **AI & Data Science** | Python (FastAPI/Flask), DistilBERT, NLTK, BeautifulSoup, SQL, MongoDB, Firebase |
-| **Creative Coding** | P5.js, Tone.js, A-Frame (WebVR), SVG Animation |
+| **Product & Leadership** | Agile (Scrum/Kanban), SDLC Management, Roadmap Strategy |
+| **Full-Stack Web** | React, Next.js, TypeScript, Node.js, Tailwind, REST/GraphQL |
+| **AI & Data Science** | Python, GenAI, Model Evaluation, Prompt Engineering, SQL, MongoDB |
+| **Creative & Analytics** | P5.js, Tone.js, SVG Animation, Google Analytics, SEO, Data Viz |
 | **CMS & Architecture** | Hugo, Ghost, Jekyll, Drupal, WordPress, Netlify, Streamlit, Pageflow |
 
 ---
