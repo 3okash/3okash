@@ -12,8 +12,7 @@
 | **Full-Stack Web** | React, Next.js, TypeScript, Node.js, Tailwind, REST/GraphQL |
 | **AI & Data Science** | Python, GenAI, Model Evaluation, Prompt Engineering, SQL, MongoDB |
 | **Creative & Analytics** | P5.js, Tone.js, SVG Animation, Google Analytics, SEO, Data Viz |
-| **CMS & Architecture** | Hugo, Ghost, Jekyll, Drupal, WordPress, Netlify, Streamlit, Pageflow |
-
+| **Architecture & CMS** | Netlify, Vercel, Streamlit, Hugo, Ghost, WordPress, Drupal, Flask, FastAPI |
 ---
 
 ### ⭐ Coming Soon
