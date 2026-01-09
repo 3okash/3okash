@@ -30,13 +30,10 @@
 * **[Persona Pulse](https://3okash.github.io/PersonaPulse/)**: Inferred user persona analysis via Flask microservices and React.
 * **[Headliner](https://3okash.github.io/headliner/)**: Predicts emotional/social impact of headlines using DistilBERT & K-Means clustering.
 * **[How the US Voted](https://3okash.github.io/us_votes)**: Dynamic hybrid map/timeline viz using React and SVG.
-* [More ...](https://3okash.github.io/home/projects)
-
----
-
-
-####  Creative Coding & Audio
-
 * **[SynthChord](https://3okash.github.io/synthchord/)**: Real-time audio synthesis guitar built with Tone.js and P5.js.
 * **[Stylus](https://3okash.github.io/stylus/)**: Geometric drawing tool exploring symmetry and algorithmic art.
+* [More ...](https://3okash.github.io/home/projects)
+
+
+
 
