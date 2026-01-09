@@ -16,7 +16,7 @@
 ---
 
 ### ⭐ Coming Soon
-* **[⛰️ GuideHive](https://beta.guidehive.app/)** - Fully-featured social infrastructure for localized outdoor economy.
+* **[🐝 GuideHive](https://beta.guidehive.app/)** - Fully-featured social infrastructure for localized outdoor economy.
 
 
 
@@ -34,52 +34,3 @@
 * **[Stylus](https://3okash.github.io/stylus/)**: Geometric drawing tool exploring symmetry and algorithmic art.
 * [More ...](https://3okash.github.io/home/projects)
 
-
-
-<table table-layout="fixed" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/3okash/Nextplate">
-        <img src="YOUR_IMAGE_PATH_HERE" alt="Nextplate" style="width:100%; border-radius:10px;">
-      </a>
-      <p align="center">
-        <b><a href="https://github.com/3okash/Nextplate">Nextplate</a></b><br>
-        Ultimate Next.js boilerplate for rapid development.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/3okash/nextpen">
-        <img src="YOUR_IMAGE_PATH_HERE" alt="Nextpen" style="width:100%; border-radius:10px;">
-      </a>
-      <p align="center">
-        <b><a href="https://github.com/3okash/nextpen">Nextpen</a></b><br>
-        Sleek, full-featured Next.js blog platform.
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://newscoop.streamlit.app">
-        <img src="YOUR_IMAGE_PATH_HERE" alt="Newscoop" style="width:100%; border-radius:10px;">
-      </a>
-      <p align="center">
-        <b><a href="https://newscoop.streamlit.app">Newscoop</a></b><br>
-        AI news auditor surfacing narrative bias.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://3okash.github.io/PersonaPulse/">
-        <img src="YOUR_IMAGE_PATH_HERE" alt="Persona Pulse" style="width:100%; border-radius:10px;">
-      </a>
-      <p align="center">
-        <b><a href="https://3okash.github.io/PersonaPulse/">Persona Pulse</a></b><br>
-        Inferred user persona analysis via Flask and React.
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://3okash.github.io/headliner/">
-        <img src="YOUR_IMAGE_PATH_HERE" alt="Headliner" style="width:100%; border-radius:1
