@@ -16,7 +16,7 @@
 ---
 
 ### ⭐ Coming Soon
-* **[🐝 GuideHive](https://beta.guidehive.app/)** - Fully-featured social infrastructure for localized outdoor economy.
+* **[🐝 GuideHive](https://guidehive.app/)** - Fully-featured social infrastructure for localized outdoor economy.
 
 
 
