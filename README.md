@@ -1,6 +1,6 @@
 ### Full-Stack Developer, AWS Solutions Architect
 
-15+ years of experience specializing in building and leading **data-driven narratives**, **world-class web applications**, and **AI-powered tools**.
+10+ years of experience specializing in building and leading **data-driven narratives**, **world-class web applications**, and **AI-powered tools**.
 
 ---
 
