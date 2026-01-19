@@ -1,4 +1,4 @@
-### Creative Technologist, Full-Stack Developer, Technical Product Manager
+### Full-Stack Developer, AWS Solutions Architect
 
 15+ years of experience specializing in building and leading **data-driven narratives**, **world-class web applications**, and **AI-powered tools**.
 
@@ -8,12 +8,12 @@
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Product & Leadership** | Agile (Scrum/Kanban), SDLC Management, Roadmap Strategy |
-| **Full-Stack Web** | React, Next.js, TypeScript, Node.js, Tailwind, REST/GraphQL |
-| **AI & Data Science** | Python, GenAI, Model Evaluation, Prompt Engineering, SQL, MongoDB |
-| **Creative & Analytics** | P5.js, Tone.js, SVG Animation, Google Analytics, SEO, Data Viz |
-| **Architecture & CMS** | Netlify, Vercel, Streamlit, Hugo, Ghost, WordPress, Drupal, Flask, FastAPI |
----
+| **Product & Leadership** | Agile (Scrum/Kanban), SDLC Management, Roadmap Strategy, AWS Solutions Architect (Candidate) |
+| **Full-Stack Web** | React.js, Next.js, TypeScript, Node.js, Tailwind CSS, RESTful APIs, GraphQL, JavaScript, HTML/CSS, Redux/State Management, Caching, WebSockets, Webpack/Vite, Bootstrap, Git, Jest, JSON, StencilJS, Storybook, Responsive Web Design, Component-based Architecture, Single Page Applications |
+| **AI & Data Science** | Python, GenAI Integration, Model Evaluation, Prompt Engineering, LLM Orchestration, Generative AI Agents, SQL, MongoDB, Postgres, MySQL, Data Analytics |
+| **Creative & Analytics** | P5.js, Tone.js, SVG Animation, Google Analytics, SEO, Data Visualization, Real-time Dashboards, Tableau, Power BI |
+| **Architecture & CMS** | Netlify, Vercel, Streamlit, Hugo, Ghost, WordPress, Drupal, Flask, FastAPI, AWS (EC2, S3, Lambda, VPC, IAM), CloudFront, Serverless Architecture, Linux, Pega Certified System Architect |
+
 
 ### ⭐ Coming Soon
 * **[🐝 GuideHive](https://guidehive.app/)** - Fully-featured social infrastructure for localized outdoor economy.
