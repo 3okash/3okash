@@ -1,8 +1,6 @@
-<div align="right">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3okash&layout=compact&hide_border=true&bg_color=ffeb3b&title_color=000000&text_color=24292e)
-
-</div>
+<table>
+<tr>
+<td width="60%" valign="top">
 
 # 👋 Hey, I'm Ala
 
@@ -13,6 +11,17 @@ I turn complex ideas into scalable products. With **10+ years** building **data-
 🚀 **Currently Building:** [GuideHive](https://guidehive.app/) – Full-stack social marketplace connecting adventurers with local outdoor guides  
 🎯 **Focus Areas:** Full-stack TypeScript, Serverless Architecture, AI/ML Product Integration  
 💡 **Passionate About:** Developer experience, creative coding, data visualization, and narrative-driven tech
+
+</td>
+<td width="40%" valign="top">
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3okash&layout=compact&hide_border=true&bg_color=ffeb3b&title_color=000000&text_color=24292e)
+
+</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -41,7 +50,7 @@ I turn complex ideas into scalable products. With **10+ years** building **data-
 ![WordPress](./badges/WordPress.svg) ![Drupal](./badges/drupal.svg) ![Strapi](./badges/strapi.svg) ![Hugo](./badges/Hugo.svg)
 
 ### **Creative & Visualization**
-![P5js](./badges/p5_js.svg) ![Chart.js](./badges/chart_js.svg)
+![P5js](./badges/p5_js.svg) ![D3.js](./badges/D3.svg) ![Chart.js](./badges/chart_js.svg)
 
 
 ---
