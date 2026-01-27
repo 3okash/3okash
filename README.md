@@ -56,7 +56,7 @@
 ## 🚀 Featured Projects
 
 ### **Production Apps**
-* **[GuideHive](https://guidehive.app/)** – Full-featured social marketplace for the outdoor economy. Built with React Native (mobile), Next.js (web), Node.js + PostgreSQL backend, Stripe payments, real-time chat, and Firebase authentication.
+* **[GuideHive](https://guidehive.app/)** – Full-featured social marketplace for the outdoor economy. Built with React Native (mobile), React.js (web), Node.js + PostgreSQL backend, Stripe payments, real-time chat, and Firebase authentication.
 
 ### **Developer Tools & Boilerplates**
 * **[Nextplate](https://github.com/3okash/Nextplate)** – The ultimate Next.js boilerplate for rapid development. Pre-configured with TypeScript, Tailwind, ESLint, and best practices.
