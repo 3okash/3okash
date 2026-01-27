@@ -4,7 +4,7 @@
 
 # 👋 Hey, I'm Ala
 
-### Full-Stack Developer | AWS Solutions Architect | AI Builder
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58a6ff&width=435&lines=I+build+Data-Driven+Platforms;I+architect+AWS+Solutions;I+create+World-Class+Web+Apps" alt="Typing SVG" /></a>
 
 I turn complex ideas into scalable products. With **10+ years** building **data-driven platforms**, **AI-powered tools**, and **world-class web applications**, I specialize in taking projects from 0→1 and scaling them to production.
 
@@ -26,29 +26,52 @@ I turn complex ideas into scalable products. With **10+ years** building **data-
 
 ## 🛠️ Tech Stack
 
-### **Frontend & UI**
-![JavaScript](./badges/javascript.svg) ![TypeScript](./badges/TypeScript.svg) ![React](./badges/react.svg) ![React Native](./badges/React_Native.svg) ![Next JS](./badges/Next.svg) ![React Router](./badges/React_Router.svg) ![Gatsby](./badges/Gatsby.svg) ![Vite](./badges/vite.svg) ![Expo](./badges/expo.svg) ![TailwindCSS](./badges/tailwindcss.svg) ![CSS3](./badges/css3.svg) ![Figma](./badges/figma.svg) ![Sketch](./badges/Sketch.svg) ![Adobe Illustrator](./badges/adobe_illustrator.svg)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Frontend & UI</h3>
+      <p>
+        <img src="./badges/javascript.svg" alt="JavaScript" /> <img src="./badges/TypeScript.svg" alt="TypeScript" /> <img src="./badges/react.svg" alt="React" /> <img src="./badges/React_Native.svg" alt="React Native" /> <img src="./badges/Next.svg" alt="Next JS" /> <img src="./badges/React_Router.svg" alt="React Router" /> <img src="./badges/Gatsby.svg" alt="Gatsby" /> <img src="./badges/vite.svg" alt="Vite" /> <img src="./badges/expo.svg" alt="Expo" /> <img src="./badges/tailwindcss.svg" alt="TailwindCSS" /> <img src="./badges/css3.svg" alt="CSS3" /> <img src="./badges/figma.svg" alt="Figma" /> <img src="./badges/Sketch.svg" alt="Sketch" /> <img src="./badges/adobe_illustrator.svg" alt="Adobe Illustrator" />
+      </p>
 
-### **Backend & Infrastructure**
-![Python](./badges/python.svg) ![NodeJS](./badges/node_js.svg) ![Express.js](./badges/express_js.svg) ![GraphQL](./badges/GraphQL.svg) ![Flask](./badges/flask.svg) ![FastAPI](./badges/FastAPI.svg) ![Strapi](./badges/strapi.svg) ![Stripe](./badges/Stripe.svg) ![Docker](./badges/docker.svg) ![Nginx](./badges/nginx.svg) ![Apache](./badges/apache.svg)
+      <h3>Backend & Infrastructure</h3>
+      <p>
+        <img src="./badges/python.svg" alt="Python" /> <img src="./badges/node_js.svg" alt="NodeJS" /> <img src="./badges/express_js.svg" alt="Express.js" /> <img src="./badges/GraphQL.svg" alt="GraphQL" /> <img src="./badges/flask.svg" alt="Flask" /> <img src="./badges/FastAPI.svg" alt="FastAPI" /> <img src="./badges/strapi.svg" alt="Strapi" /> <img src="./badges/Stripe.svg" alt="Stripe" /> <img src="./badges/docker.svg" alt="Docker" /> <img src="./badges/nginx.svg" alt="Nginx" /> <img src="./badges/apache.svg" alt="Apache" />
+      </p>
 
-### **Cloud & DevOps**
-![AWS](./badges/AWS.svg) ![Firebase](./badges/firebase.svg) ![Google Cloud](./badges/GoogleCloud.svg) ![Vercel](./badges/Vercel.svg) ![DigitalOcean](./badges/DigitalOcean.svg) ![Netlify](./badges/netlify.svg) ![Linode](./badges/linode.svg) ![Cloudflare](./badges/Cloudflare.svg) ![Supabase](./badges/Supabase.svg)
+      <h3>Cloud & DevOps</h3>
+      <p>
+        <img src="./badges/AWS.svg" alt="AWS" /> <img src="./badges/firebase.svg" alt="Firebase" /> <img src="./badges/GoogleCloud.svg" alt="Google Cloud" /> <img src="./badges/Vercel.svg" alt="Vercel" /> <img src="./badges/DigitalOcean.svg" alt="DigitalOcean" /> <img src="./badges/netlify.svg" alt="Netlify" /> <img src="./badges/linode.svg" alt="Linode" /> <img src="./badges/Cloudflare.svg" alt="Cloudflare" /> <img src="./badges/Supabase.svg" alt="Supabase" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Databases</h3>
+      <p>
+        <img src="./badges/postgres.svg" alt="Postgres" /> <img src="./badges/mysql.svg" alt="MySQL" /> <img src="./badges/MongoDB.svg" alt="MongoDB" /> <img src="./badges/redis.svg" alt="Redis" /> <img src="./badges/sqlite.svg" alt="SQLite" /> <img src="./badges/Amazon_DynamoDB.svg" alt="AmazonDynamoDB" />
+      </p>
 
-### **Databases**
-![Postgres](./badges/postgres.svg) ![MySQL](./badges/mysql.svg) ![MongoDB](./badges/MongoDB.svg) ![Redis](./badges/redis.svg) ![SQLite](./badges/sqlite.svg) ![AmazonDynamoDB](./badges/Amazon_DynamoDB.svg)
+      <h3>Data Science & AI</h3>
+      <p>
+        <img src="./badges/numpy.svg" alt="NumPy" /> <img src="./badges/pandas.svg" alt="Pandas" /> <img src="./badges/PyTorch.svg" alt="PyTorch" /> <img src="./badges/power_bi.svg" alt="Power Bi" />
+      </p>
 
-### **Data Science & AI**
-![NumPy](./badges/numpy.svg) ![Pandas](./badges/pandas.svg) ![PyTorch](./badges/PyTorch.svg) ![Power Bi](./badges/power_bi.svg)
+      <h3>CMS & Content</h3>
+      <p>
+        <img src="./badges/WordPress.svg" alt="WordPress" /> <img src="./badges/drupal.svg" alt="Drupal" /> <img src="./badges/strapi.svg" alt="Strapi" /> <img src="./badges/Hugo.svg" alt="Hugo" />
+      </p>
 
-### **Tools & Workflow**
-![Git](./badges/git.svg) ![GitHub](./badges/github.svg) ![Yarn](./badges/yarn.svg) ![Webpack](./badges/webpack.svg) ![Postman](./badges/Postman.svg) ![Jira](./badges/jira.svg) ![Confluence](./badges/confluence.svg) ![Notion](./badges/Notion.svg)
+      <h3>Tools & Workflow</h3>
+      <p>
+        <img src="./badges/git.svg" alt="Git" /> <img src="./badges/github.svg" alt="GitHub" /> <img src="./badges/yarn.svg" alt="Yarn" /> <img src="./badges/webpack.svg" alt="Webpack" /> <img src="./badges/Postman.svg" alt="Postman" /> <img src="./badges/jira.svg" alt="Jira" /> <img src="./badges/confluence.svg" alt="Confluence" /> <img src="./badges/Notion.svg" alt="Notion" />
+      </p>
 
-### **CMS & Content**
-![WordPress](./badges/WordPress.svg) ![Drupal](./badges/drupal.svg) ![Strapi](./badges/strapi.svg) ![Hugo](./badges/Hugo.svg)
-
-### **Creative & Visualization**
-![P5js](./badges/p5_js.svg) ![D3.js](./badges/D3.svg) ![Chart.js](./badges/chart_js.svg)
+      <h3>Creative & Visualization</h3>
+      <p>
+        <img src="./badges/p5_js.svg" alt="P5js" /> <img src="./badges/D3.svg" alt="D3.js" /> <img src="./badges/chart_js.svg" alt="Chart.js" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 ---
