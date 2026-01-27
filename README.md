@@ -1,22 +1,13 @@
 <table>
 <tr>
 <td width="60%" valign="top">
-
-# 👋 Hey, I'm Ala
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58a6ff&width=435&lines=I+build+Data-Driven+Platforms;I+architect+AWS+Solutions;I+create+World-Class+Web+Apps" alt="Typing SVG" /></a>
-
-I turn complex ideas into scalable products. With **10+ years** building **data-driven platforms**, **AI-powered tools**, and **world-class web applications**, I specialize in taking projects from 0→1 and scaling them to production.
-
-🚀 **Currently Building:** [GuideHive](https://guidehive.app/) – Full-stack social marketplace connecting adventurers with local outdoor guides  
-
+<h1>👋 Hey, I'm Ala</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58a6ff&width=435&lines=I+build+Data-Driven+Platforms;I+architect+AWS+Solutions;I+create+World-Class+Web+Apps" alt="Typing SVG"></a>
+<p>I turn complex ideas into scalable products. With <b>10+ years</b> building <b>data-driven platforms</b>, <b>AI-powered tools</b>, and <b>world-class web applications</b>, I specialize in taking projects from 0→1 and scaling them to production.</p>
+<p>🚀 <b>Currently Building:</b> <a href="https://guidehive.app/">GuideHive</a> – Full-stack social marketplace connecting adventurers with local outdoor guides</p>
 </td>
-<td width="40%" valign="top">
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3okash&layout=compact&hide_border=true&bg_color=ffeb3b&title_color=000000&text_color=24292e)
-
-</div>
+<td width="40%" valign="top" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3okash&layout=compact&hide_border=true&bg_color=ffeb3b&title_color=000000&text_color=24292e" alt="Top Languages">
 </td>
 </tr>
 </table>
@@ -27,55 +18,34 @@ I turn complex ideas into scalable products. With **10+ years** building **data-
 ## 🛠️ Tech Stack
 
 <table>
-  <tr>
-    <td colspan="2" align="center">
-
-### ☁️ AWS Ecosystem
-
-![AWS](./badges/AWS.svg) ![S3](./badges/AWS_S3.svg) ![Lambda](./badges/AWS_Lambda.svg) ![EC2](./badges/AWS_EC2.svg) ![CloudFront](./badges/AWS_CloudFront.svg) ![Route53](./badges/AWS_Route53.svg) ![RDS](./badges/AWS_RDS.svg) ![DynamoDB](./badges/Amazon_DynamoDB.svg) ![IAM](./badges/AWS_IAM.svg) ![API Gateway](./badges/AWS_API_Gateway.svg) ![Amplify](./badges/AWS_Amplify.svg)
-
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-
-### Frontend & UI
-
-![JavaScript](./badges/javascript.svg) ![TypeScript](./badges/TypeScript.svg) ![React](./badges/react.svg) ![React Native](./badges/React_Native.svg) ![Next JS](./badges/Next.svg) ![React Router](./badges/React_Router.svg) ![Gatsby](./badges/Gatsby.svg) ![Vite](./badges/vite.svg) ![Expo](./badges/expo.svg) ![TailwindCSS](./badges/tailwindcss.svg) ![CSS3](./badges/css3.svg) ![Figma](./badges/figma.svg) ![Sketch](./badges/Sketch.svg) ![Adobe Illustrator](./badges/adobe_illustrator.svg)
-
-### Backend & Infrastructure
-
-![Python](./badges/python.svg) ![NodeJS](./badges/node_js.svg) ![Express.js](./badges/express_js.svg) ![GraphQL](./badges/GraphQL.svg) ![Flask](./badges/flask.svg) ![FastAPI](./badges/FastAPI.svg) ![Strapi](./badges/strapi.svg) ![Stripe](./badges/Stripe.svg) ![Docker](./badges/docker.svg) ![Nginx](./badges/nginx.svg) ![Apache](./badges/apache.svg)
-
-### Cloud & DevOps
-
-![Firebase](./badges/firebase.svg) ![Google Cloud](./badges/GoogleCloud.svg) ![Vercel](./badges/Vercel.svg) ![DigitalOcean](./badges/DigitalOcean.svg) ![Netlify](./badges/netlify.svg) ![Linode](./badges/linode.svg) ![Cloudflare](./badges/Cloudflare.svg) ![Supabase](./badges/Supabase.svg)
-
-    </td>
-    <td valign="top" width="50%">
-
-### Databases
-
-![Postgres](./badges/postgres.svg) ![MySQL](./badges/mysql.svg) ![MongoDB](./badges/MongoDB.svg) ![Redis](./badges/redis.svg) ![SQLite](./badges/sqlite.svg)
-
-### Data Science & AI
-
-![NumPy](./badges/numpy.svg) ![Pandas](./badges/pandas.svg) ![PyTorch](./badges/PyTorch.svg) ![Power Bi](./badges/power_bi.svg)
-
-### CMS & Content
-
-![WordPress](./badges/WordPress.svg) ![Drupal](./badges/drupal.svg) ![Strapi](./badges/strapi.svg) ![Hugo](./badges/Hugo.svg)
-
-### Tools & Workflow
-
-![Git](./badges/git.svg) ![GitHub](./badges/github.svg) ![Yarn](./badges/yarn.svg) ![Webpack](./badges/webpack.svg) ![Postman](./badges/Postman.svg) ![Jira](./badges/jira.svg) ![Confluence](./badges/confluence.svg) ![Notion](./badges/Notion.svg)
-
-### Creative & Visualization
-
-![P5js](./badges/p5_js.svg) ![D3.js](./badges/D3.svg) ![Chart.js](./badges/chart_js.svg)
-
-    </td>
-  </tr>
+<tr>
+<td colspan="2" align="center">
+<h3>☁️ AWS Ecosystem</h3>
+<img src="./badges/AWS.svg"> <img src="./badges/AWS_S3.svg"> <img src="./badges/AWS_Lambda.svg"> <img src="./badges/AWS_EC2.svg"> <img src="./badges/AWS_CloudFront.svg"> <img src="./badges/AWS_Route53.svg"> <img src="./badges/AWS_RDS.svg"> <img src="./badges/Amazon_DynamoDB.svg"> <img src="./badges/AWS_IAM.svg"> <img src="./badges/AWS_API_Gateway.svg"> <img src="./badges/AWS_Amplify.svg">
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<h3>Frontend & UI</h3>
+<img src="./badges/javascript.svg"> <img src="./badges/TypeScript.svg"> <img src="./badges/react.svg"> <img src="./badges/React_Native.svg"> <img src="./badges/Next.svg"> <img src="./badges/React_Router.svg"> <img src="./badges/Gatsby.svg"> <img src="./badges/vite.svg"> <img src="./badges/expo.svg"> <img src="./badges/tailwindcss.svg"> <img src="./badges/css3.svg"> <img src="./badges/figma.svg"> <img src="./badges/Sketch.svg"> <img src="./badges/adobe_illustrator.svg">
+<h3>Backend & Infrastructure</h3>
+<img src="./badges/python.svg"> <img src="./badges/node_js.svg"> <img src="./badges/express_js.svg"> <img src="./badges/GraphQL.svg"> <img src="./badges/flask.svg"> <img src="./badges/FastAPI.svg"> <img src="./badges/strapi.svg"> <img src="./badges/Stripe.svg"> <img src="./badges/docker.svg"> <img src="./badges/nginx.svg"> <img src="./badges/apache.svg">
+<h3>Cloud & DevOps</h3>
+<img src="./badges/firebase.svg"> <img src="./badges/GoogleCloud.svg"> <img src="./badges/Vercel.svg"> <img src="./badges/DigitalOcean.svg"> <img src="./badges/netlify.svg"> <img src="./badges/linode.svg"> <img src="./badges/Cloudflare.svg"> <img src="./badges/Supabase.svg">
+</td>
+<td valign="top" width="50%">
+<h3>Databases</h3>
+<img src="./badges/postgres.svg"> <img src="./badges/mysql.svg"> <img src="./badges/MongoDB.svg"> <img src="./badges/redis.svg"> <img src="./badges/sqlite.svg">
+<h3>Data Science & AI</h3>
+<img src="./badges/numpy.svg"> <img src="./badges/pandas.svg"> <img src="./badges/PyTorch.svg"> <img src="./badges/power_bi.svg">
+<h3>CMS & Content</h3>
+<img src="./badges/WordPress.svg"> <img src="./badges/drupal.svg"> <img src="./badges/strapi.svg"> <img src="./badges/Hugo.svg">
+<h3>Tools & Workflow</h3>
+<img src="./badges/git.svg"> <img src="./badges/github.svg"> <img src="./badges/yarn.svg"> <img src="./badges/webpack.svg"> <img src="./badges/Postman.svg"> <img src="./badges/jira.svg"> <img src="./badges/confluence.svg"> <img src="./badges/Notion.svg">
+<h3>Creative & Visualization</h3>
+<img src="./badges/p5_js.svg"> <img src="./badges/D3.svg"> <img src="./badges/chart_js.svg">
+</td>
+</tr>
 </table>
 
 
