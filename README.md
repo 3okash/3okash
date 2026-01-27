@@ -4,7 +4,7 @@
 
 </div>
 
-# 👋 Hey, I'm 3okash
+# 👋 Hey, I'm Ala
 
 ### Full-Stack Developer | AWS Solutions Architect | AI Builder
 
@@ -16,11 +16,6 @@ I turn complex ideas into scalable products. With **10+ years** building **data-
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/3okash/3okash/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -48,8 +43,6 @@ I turn complex ideas into scalable products. With **10+ years** building **data-
 ### **Creative & Visualization**
 ![P5js](./badges/p5_js.svg) ![Chart.js](./badges/chart_js.svg)
 
-### **Also Experienced With**
-![Prezi](./badges/Prezi.svg) ![Twilio](./badges/Twilio.svg)
 
 ---
 
@@ -76,28 +69,9 @@ I turn complex ideas into scalable products. With **10+ years** building **data-
 
 ---
 
-##  What I Bring to the Table
-
-✨ **Full-Stack Expertise** – From React Native apps to scalable cloud infrastructure  
-🏗️ **0→1 Product Building** – Proven track record shipping MVPs to production  
-🤖 **AI Integration** – Practical experience implementing ML models in production apps  
-📊 **Data Storytelling** – Turning complex data into compelling visual narratives  
-⚡ **Performance Obsessed** – Lighthouse scores and user experience are non-negotiable  
-🎨 **Design-Minded** – Strong eye for UI/UX and modern web aesthetics
-
----
-
-## 🤝 Let's Connect
-
-💬 Open to interesting collaborations, technical discussions, and new opportunities  
-📫 Best way to reach me: [**Open an issue**](https://github.com/3okash/3okash/issues/new) or DM me  
-🌐 Portfolio: [**3okash.github.io**](https://3okash.github.io)
-
----
 
 <div align="center">
 
-*"The best way to predict the future is to build it."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=3okash&color=58a6ff&style=flat-square)
 
