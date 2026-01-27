@@ -20,7 +20,7 @@
 <tr>
 <td valign="top" width="50%">
 <h4>Frontend & UI</h4>
-<img src="./badges/javascript.svg"> <img src="./badges/TypeScript.svg"> <img src="./badges/react.svg"> <img src="./badges/React_Native.svg"> <img src="./badges/Next.svg"> <img src="./badges/React_Router.svg"> <img src="./badges/Gatsby.svg"> <img src="./badges/vite.svg"> <img src="./badges/expo.svg"> <img src="./badges/tailwindcss.svg"> <img src="./badges/css3.svg"> <img src="./badges/figma.svg"> <img src="./badges/Sketch.svg"> <img src="./badges/adobe_illustrator.svg">
+<img src="./badges/javascript.svg"> <img src="./badges/TypeScript.svg"> <img src="./badges/react.svg"> <img src="./badges/React_Native.svg"> <img src="./badges/Next.svg"> <img src="./badges/React_Router.svg"> <img src="./badges/Gatsby.svg"> <img src="./badges/vite.svg"> <img src="./badges/expo.svg"> <img src="./badges/tailwindcss.svg"> <img src="./badges/css3.svg"> <img src="./badges/figma.svg"> <img src="./badges/Sketch.svg">
 <br>
 <h4>Tools & Workflow</h4>
 <img src="./badges/git.svg"> <img src="./badges/github.svg"> <img src="./badges/Linux.svg"> <img src="./badges/MacOS.svg"> <img src="./badges/yarn.svg"> <img src="./badges/webpack.svg"> <img src="./badges/Postman.svg"> <img src="./badges/jira.svg"> <img src="./badges/confluence.svg"> <img src="./badges/Notion.svg">
