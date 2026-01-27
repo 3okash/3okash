@@ -15,9 +15,7 @@ I turn complex ideas into scalable products. With **10+ years** building **data-
 </td>
 <td width="40%" valign="top">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3okash&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3okash&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3okash&layout=compact&hide_border=true&bg_color=ffeb3b&title_color=000000&text_color=24292e)
 
 </td>
 </tr>
@@ -28,13 +26,13 @@ I turn complex ideas into scalable products. With **10+ years** building **data-
 ## 🛠️ Tech Stack
 
 ### **Frontend & UI**
-![JavaScript](./badges/javascript.svg) ![React](./badges/react.svg) ![Next JS](./badges/Next.svg) ![React Router](./badges/React_Router.svg) ![Gatsby](./badges/Gatsby.svg) ![Vite](./badges/vite.svg) ![Expo](./badges/expo.svg) ![TailwindCSS](./badges/tailwindcss.svg) ![CSS3](./badges/css3.svg) ![Figma](./badges/figma.svg) ![Sketch](./badges/Sketch.svg) ![Adobe Illustrator](./badges/adobe_illustrator.svg)
+![JavaScript](./badges/javascript.svg) ![TypeScript](./badges/TypeScript.svg) ![React](./badges/react.svg) ![React Native](./badges/React_Native.svg) ![Next JS](./badges/Next.svg) ![React Router](./badges/React_Router.svg) ![Gatsby](./badges/Gatsby.svg) ![Vite](./badges/vite.svg) ![Expo](./badges/expo.svg) ![TailwindCSS](./badges/tailwindcss.svg) ![CSS3](./badges/css3.svg) ![Figma](./badges/figma.svg) ![Sketch](./badges/Sketch.svg) ![Adobe Illustrator](./badges/adobe_illustrator.svg)
 
 ### **Backend & Infrastructure**
-![Python](./badges/python.svg) ![NodeJS](./badges/node_js.svg) ![Express.js](./badges/express_js.svg) ![Flask](./badges/flask.svg) ![FastAPI](./badges/FastAPI.svg) ![Strapi](./badges/strapi.svg) ![Docker](./badges/docker.svg) ![Nginx](./badges/nginx.svg) ![Apache](./badges/apache.svg)
+![Python](./badges/python.svg) ![NodeJS](./badges/node_js.svg) ![Express.js](./badges/express_js.svg) ![GraphQL](./badges/GraphQL.svg) ![Flask](./badges/flask.svg) ![FastAPI](./badges/FastAPI.svg) ![Strapi](./badges/strapi.svg) ![Stripe](./badges/Stripe.svg) ![Docker](./badges/docker.svg) ![Nginx](./badges/nginx.svg) ![Apache](./badges/apache.svg)
 
 ### **Cloud & DevOps**
-![AWS](./badges/AWS.svg) ![Firebase](./badges/firebase.svg) ![Google Cloud](./badges/GoogleCloud.svg) ![DigitalOcean](./badges/DigitalOcean.svg) ![Netlify](./badges/netlify.svg) ![Linode](./badges/linode.svg) ![Cloudflare](./badges/Cloudflare.svg) ![Supabase](./badges/Supabase.svg)
+![AWS](./badges/AWS.svg) ![Firebase](./badges/firebase.svg) ![Google Cloud](./badges/GoogleCloud.svg) ![Vercel](./badges/Vercel.svg) ![DigitalOcean](./badges/DigitalOcean.svg) ![Netlify](./badges/netlify.svg) ![Linode](./badges/linode.svg) ![Cloudflare](./badges/Cloudflare.svg) ![Supabase](./badges/Supabase.svg)
 
 ### **Databases**
 ![Postgres](./badges/postgres.svg) ![MySQL](./badges/mysql.svg) ![MongoDB](./badges/MongoDB.svg) ![Redis](./badges/redis.svg) ![SQLite](./badges/sqlite.svg) ![AmazonDynamoDB](./badges/Amazon_DynamoDB.svg)
@@ -45,11 +43,14 @@ I turn complex ideas into scalable products. With **10+ years** building **data-
 ### **Tools & Workflow**
 ![Git](./badges/git.svg) ![GitHub](./badges/github.svg) ![Yarn](./badges/yarn.svg) ![Webpack](./badges/webpack.svg) ![Postman](./badges/Postman.svg) ![Jira](./badges/jira.svg) ![Confluence](./badges/confluence.svg) ![Notion](./badges/Notion.svg)
 
+### **CMS & Content**
+![WordPress](./badges/WordPress.svg) ![Drupal](./badges/drupal.svg) ![Strapi](./badges/strapi.svg)
+
 ### **Creative & Visualization**
 ![P5js](./badges/p5_js.svg) ![Chart.js](./badges/chart_js.svg)
 
 ### **Also Experienced With**
-![Drupal](./badges/drupal.svg) ![Prezi](./badges/Prezi.svg) ![Twilio](./badges/Twilio.svg)
+![Prezi](./badges/Prezi.svg) ![Twilio](./badges/Twilio.svg)
 
 ---
 
