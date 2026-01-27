@@ -9,8 +9,6 @@
 I turn complex ideas into scalable products. With **10+ years** building **data-driven platforms**, **AI-powered tools**, and **world-class web applications**, I specialize in taking projects from 0→1 and scaling them to production.
 
 🚀 **Currently Building:** [GuideHive](https://guidehive.app/) – Full-stack social marketplace connecting adventurers with local outdoor guides  
-🎯 **Focus Areas:** Full-stack TypeScript, Serverless Architecture, AI/ML Product Integration  
-💡 **Passionate About:** Developer experience, creative coding, data visualization, and narrative-driven tech
 
 </td>
 <td width="40%" valign="top">
