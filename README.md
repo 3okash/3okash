@@ -1,7 +1,6 @@
 <table>
 <tr>
 <td width="60%" valign="top">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58a6ff&width=435&lines=I+build+Data-Driven+Platforms;I+architect+AWS+Solutions;I+create+World-Class+Web+Apps" alt="Typing SVG"></a>
 <p>I turn complex ideas into scalable products. With <b>10+ years</b> building <b>data-driven platforms</b>, <b>AI-powered tools</b>, and <b>world-class web applications</b>, I specialize in taking projects from 0→1 and scaling them to production.</p>
 <p><b>Currently Building:</b> <a href="https://guidehive.app/">GuideHive</a> – Full-stack social infrastructure connecting adventurers with local outdoor guides</p>
 </td>
