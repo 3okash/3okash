@@ -1,6 +1,8 @@
-<table>
-<tr>
-<td width="60%" valign="top">
+<div align="right">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3okash&layout=compact&hide_border=true&bg_color=ffeb3b&title_color=000000&text_color=24292e)
+
+</div>
 
 # 👋 Hey, I'm 3okash
 
@@ -12,14 +14,11 @@ I turn complex ideas into scalable products. With **10+ years** building **data-
 🎯 **Focus Areas:** Full-stack TypeScript, Serverless Architecture, AI/ML Product Integration  
 💡 **Passionate About:** Developer experience, creative coding, data visualization, and narrative-driven tech
 
-</td>
-<td width="40%" valign="top">
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3okash&layout=compact&hide_border=true&bg_color=ffeb3b&title_color=000000&text_color=24292e)
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/3okash/3okash/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</div>
 
 ---
 
@@ -44,7 +43,7 @@ I turn complex ideas into scalable products. With **10+ years** building **data-
 ![Git](./badges/git.svg) ![GitHub](./badges/github.svg) ![Yarn](./badges/yarn.svg) ![Webpack](./badges/webpack.svg) ![Postman](./badges/Postman.svg) ![Jira](./badges/jira.svg) ![Confluence](./badges/confluence.svg) ![Notion](./badges/Notion.svg)
 
 ### **CMS & Content**
-![WordPress](./badges/WordPress.svg) ![Drupal](./badges/drupal.svg) ![Strapi](./badges/strapi.svg)
+![WordPress](./badges/WordPress.svg) ![Drupal](./badges/drupal.svg) ![Strapi](./badges/strapi.svg) ![Hugo](./badges/Hugo.svg)
 
 ### **Creative & Visualization**
 ![P5js](./badges/p5_js.svg) ![Chart.js](./badges/chart_js.svg)
