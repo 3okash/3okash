@@ -56,12 +56,6 @@
 ## 🚀 Featured Projects
 
 <table>
-  <thead>
-    <tr>
-      <th align="left">Project</th>
-      <th align="left">Description</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td colspan="2"><b>Production Apps</b></td>
