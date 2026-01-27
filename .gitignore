@@ -1,0 +1,5 @@
+# Badge generation scripts
+download_badges.py
+generate_badges.py
+update_readme.py
+badge_mapping.txt
