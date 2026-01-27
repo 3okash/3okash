@@ -1,3 +1,7 @@
+<table>
+<tr>
+<td width="60%" valign="top">
+
 # 👋 Hey, I'm 3okash
 
 ### Full-Stack Developer | AWS Solutions Architect | AI Builder
@@ -8,12 +12,23 @@ I turn complex ideas into scalable products. With **10+ years** building **data-
 🎯 **Focus Areas:** Full-stack TypeScript, Serverless Architecture, AI/ML Product Integration  
 💡 **Passionate About:** Developer experience, creative coding, data visualization, and narrative-driven tech
 
+</td>
+<td width="40%" valign="top">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3okash&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3okash&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🛠️ Tech Stack
 
 ### **Frontend & UI**
-![JavaScript](./badges/javascript.svg) ![React](./badges/react.svg) ![Next JS](./badges/Next.svg) ![React Router](./badges/React_Router.svg) ![Gatsby](./badges/Gatsby.svg) ![Vite](./badges/vite.svg) ![Expo](./badges/expo.svg) ![TailwindCSS](./badges/tailwindcss.svg) ![CSS3](./badges/css3.svg) ![Storybook](./badges/.svg) ![Figma](./badges/figma.svg) ![Sketch](./badges/Sketch.svg) ![Adobe Illustrator](./badges/adobe_illustrator.svg)
+![JavaScript](./badges/javascript.svg) ![React](./badges/react.svg) ![Next JS](./badges/Next.svg) ![React Router](./badges/React_Router.svg) ![Gatsby](./badges/Gatsby.svg) ![Vite](./badges/vite.svg) ![Expo](./badges/expo.svg) ![TailwindCSS](./badges/tailwindcss.svg) ![CSS3](./badges/css3.svg) ![Figma](./badges/figma.svg) ![Sketch](./badges/Sketch.svg) ![Adobe Illustrator](./badges/adobe_illustrator.svg)
 
 ### **Backend & Infrastructure**
 ![Python](./badges/python.svg) ![NodeJS](./badges/node_js.svg) ![Express.js](./badges/express_js.svg) ![Flask](./badges/flask.svg) ![FastAPI](./badges/FastAPI.svg) ![Strapi](./badges/strapi.svg) ![Docker](./badges/docker.svg) ![Nginx](./badges/nginx.svg) ![Apache](./badges/apache.svg)
@@ -28,7 +43,7 @@ I turn complex ideas into scalable products. With **10+ years** building **data-
 ![NumPy](./badges/numpy.svg) ![Pandas](./badges/pandas.svg) ![PyTorch](./badges/PyTorch.svg) ![Power Bi](./badges/power_bi.svg)
 
 ### **Tools & Workflow**
-![Git](./badges/git.svg) ![GitHub](./badges/github.svg) ![Yarn](./badges/yarn.svg) ![Webpack](./badges/webpack.svg) ![Jest](./badges/.svg) ![Postman](./badges/Postman.svg) ![Jira](./badges/jira.svg) ![Confluence](./badges/confluence.svg) ![Notion](./badges/Notion.svg)
+![Git](./badges/git.svg) ![GitHub](./badges/github.svg) ![Yarn](./badges/yarn.svg) ![Webpack](./badges/webpack.svg) ![Postman](./badges/Postman.svg) ![Jira](./badges/jira.svg) ![Confluence](./badges/confluence.svg) ![Notion](./badges/Notion.svg)
 
 ### **Creative & Visualization**
 ![P5js](./badges/p5_js.svg) ![Chart.js](./badges/chart_js.svg)
@@ -61,15 +76,7 @@ I turn complex ideas into scalable products. With **10+ years** building **data-
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3okash&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3okash&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
----
-
-## 💼 What I Bring to the Table
+##  What I Bring to the Table
 
 ✨ **Full-Stack Expertise** – From React Native apps to scalable cloud infrastructure  
 🏗️ **0→1 Product Building** – Proven track record shipping MVPs to production  
