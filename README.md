@@ -11,8 +11,6 @@
 </tr>
 </table>
 
----
-
 
 ## Tech Stack
 
@@ -50,8 +48,6 @@
 </tr>
 </table>
 
-
----
 
 ## Featured Projects
 
