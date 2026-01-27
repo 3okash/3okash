@@ -14,7 +14,7 @@
 ---
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table>
 <tr>
@@ -53,7 +53,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tbody>
