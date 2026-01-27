@@ -26,7 +26,7 @@
 <img src="./badges/git.svg"> <img src="./badges/github.svg"> <img src="./badges/Linux.svg"> <img src="./badges/MacOS.svg"> <img src="./badges/yarn.svg"> <img src="./badges/webpack.svg"> <img src="./badges/Postman.svg"> <img src="./badges/jira.svg"> <img src="./badges/confluence.svg"> <img src="./badges/Notion.svg">
 <br>
 <h4>Data Science & AI</h4>
-<img src="./badges/numpy.svg"> <img src="./badges/pandas.svg"> <img src="./badges/PyTorch.svg"> <img src="./badges/power_bi.svg">
+<img src="./badges/numpy.svg"> <img src="./badges/pandas.svg"> <img src="./badges/PyTorch.svg"> <img src="./badges/Hugging_Face.svg"> <img src="./badges/Tableau.svg"> <img src="./badges/Power_BI.svg">
 <br>
 <h4>CMS & Content</h4>
 <img src="./badges/WordPress.svg"> <img src="./badges/drupal.svg"> <img src="./badges/strapi.svg"> <img src="./badges/Hugo.svg">
