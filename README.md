@@ -56,7 +56,7 @@
       <td colspan="2"><b>Interview Apps</b></td>
     </tr>
     <tr>
-      <td><a href="[https://guidehive.app/](https://3okash.github.io/React-Interview-Exercises/)"><b>React Interview Exercises</b></a></td>
+      <td><a href="https://guidehive.app/](https://3okash.github.io/React-Interview-Exercises"><b>React Interview Exercises</b></a></td>
       <td>26 interactive examples designed to help you practice and master common React patterns found in technical interviews.</td>
     </tr>
     <tr>
