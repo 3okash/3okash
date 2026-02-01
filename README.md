@@ -2,6 +2,7 @@
 <tr>
 <td width="60%" valign="top">
 <p>I turn complex ideas into scalable products. With <b>10+ years</b> building <b>data-driven platforms</b>, <b>AI-powered tools</b>, and <b>world-class web applications</b>, I specialize in taking projects from 0→1 and scaling them to production.</p>
+  <p>Latest project <a href="https://3okash.github.io/React-Interview-Exercises">React Interview Exercises</a></p>
 </td>
 <td width="40%" valign="top" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3okash&layout=compact&hide_border=true&bg_color=ffeb3b&title_color=000000&text_color=24292e" alt="Top Languages">
