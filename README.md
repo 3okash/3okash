@@ -53,21 +53,12 @@
 <table>
   <tbody>
     <tr>
-      <td colspan="2"><b>Interview Apps</b></td>
-    </tr>
-    <tr>
       <td><a href="https://guidehive.app/](https://3okash.github.io/React-Interview-Exercises"><b>React Interview Exercises</b></a></td>
       <td>26 interactive examples designed to help you practice and master common React patterns found in technical interviews.</td>
     </tr>
     <tr>
-      <td colspan="2"><b>Production Apps</b></td>
-    </tr>
-    <tr>
       <td><a href="https://guidehive.app/"><b>GuideHive</b></a></td>
       <td>Full-featured social marketplace for the outdoor economy. Built with React Native, React.js, Node.js, PostgreSQL, Stripe, and Firebase.</td>
-    </tr>
-    <tr>
-      <td colspan="2"><b>Developer Tools & Boilerplates</b></td>
     </tr>
     <tr>
       <td><a href="https://github.com/3okash/Nextplate"><b>Nextplate</b></a></td>
@@ -76,9 +67,6 @@
     <tr>
       <td><a href="https://github.com/3okash/nextpen"><b>Nextpen</b></a></td>
       <td>Sleek, full-featured Next.js blog platform built for performance and SEO.</td>
-    </tr>
-    <tr>
-      <td colspan="2"><b>AI & Data Projects</b></td>
     </tr>
     <tr>
       <td><a href="https://newscoop.streamlit.app"><b>Newscoop</b></a></td>
@@ -91,9 +79,6 @@
     <tr>
       <td><a href="https://3okash.github.io/headliner/"><b>Headliner</b></a></td>
       <td>Predicts emotional and social impact of headlines using DistilBERT transformers and K-Means clustering.</td>
-    </tr>
-    <tr>
-      <td colspan="2"><b>Data Visualization & Creative</b></td>
     </tr>
     <tr>
       <td><a href="https://3okash.github.io/us_votes"><b>How the US Voted</b></a></td>
