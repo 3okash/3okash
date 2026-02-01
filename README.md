@@ -52,7 +52,7 @@
 <table>
   <tbody>
     <tr>
-      <td><a href="https://3okash.github.io/React-Interview-Exercises"><b>React Interview Exercises (Desktop)</b></a></td>
+      <td><a href="https://3okash.github.io/React-Interview-Exercises"><b>React Interview Exercises</b></a></td>
       <td>26 interactive examples designed to help you practice and master common React patterns found in technical interviews.</td>
     </tr>
     <tr>
