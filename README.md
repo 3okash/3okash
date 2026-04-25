@@ -89,7 +89,6 @@
 
 <br>
 
-**[→ View More Projects](https://3okash.github.io/home/projects)**
 
 ---
 
