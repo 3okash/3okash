@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="60%" valign="top">
-<p>I turn complex ideas into scalable products. With <b>10+ years</b> building <b>data-driven platforms</b>, <b>AI-powered tools</b>, and <b>world-class web applications</b>, I specialize in taking projects from 0→1 and scaling them to production.</p>
+<p>I turn complex ideas into scalable products. With <b>15+ years</b> building <b>data-driven platforms</b>, <b>AI-powered tools</b>, and <b>world-class web applications</b>, I specialize in taking projects from 0→1 and scaling them to production.</p>
 </td>
 </tr>
 </table>
