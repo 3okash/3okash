@@ -8,7 +8,8 @@
 </table>
 
 ## Core Competencies
-`Product Strategy & Vision` · `Editorial Workflow Systems` · `Content Management Platforms` · `Audience Engagement` · `Personalization Engines` · `Content Recommendation` · `AI/ML Product Integration` · `LLM Workflows` · `Cross-Functional Leadership` · `Metrics-Driven Product Development`
+
+Product Strategy & Vision, Editorial Workflow Systems, Content Management Platforms, Audience Engagement, Personalization Engines, Content Recommendation, AI/ML Product Integration, LLM Workflows, Cross-Functional Leadership, Metrics-Driven Product Development
 
 ---
 
