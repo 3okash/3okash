@@ -73,7 +73,7 @@
       <br><sub><b>Stack:</b> React.js, OpenAI API, TailwindCSS, Firebase</sub></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/3okash/rOUTER"><b>rOUTER (Surfside)</b></a></td>
+      <td><a href="https://github.com/3okash/rOUTER"><b>rOUTER</b></a></td>
       <td>Centralized logistics dispatch platform and internal CRM designed for multi-store coordination. Built with algorithmic driver scheduling, live geographic map routing, SMS notification pipelines, and integrated merchant invoicing.
       <br><sub><b>Stack:</b> Next.js, TailwindCSS, Supabase, Twilio, Stripe, Map Routing APIs</sub></td>
     </tr>
