@@ -1,11 +1,5 @@
-<table>
-<tr>
-<td width="100%" valign="top">
 <p>I am a <b>Product Specialist</b> and <b>Technical Architect</b> with over 15 years of experience leading digital transformation across global media networks and building AI-driven SaaS products from zero to one. I specialize in bridging deep system architecture with strategic product direction, roadmapping, and audience-data personalization engines.</p>
 <p>🏆 <b>3× International Award Winner</b> (Digiday Publishing Awards, AIB London, Online Media Awards) · Embedded AI experience at <b>Apple (Siri)</b> · 9.5 years piloting platform scale across 140+ countries at <b>Al Jazeera</b>.</p>
-</td>
-</tr>
-</table>
 
 ## Core Competencies
 
